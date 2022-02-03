@@ -7,3 +7,4 @@ The aim of this course was to teach students how to construct computer programs 
 ### Table of content
 * pendulum - simulation of a harmonically driven pendulum
 * ann - Artificial Neural Network predicts missing data
+* orbit - simulation of a satellite orbiting the sun
