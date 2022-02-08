@@ -1,6 +1,5 @@
-# Satellite orbit 
-__In this project I simulate the trajectory of a satellite that orbits the sun. 
-The written report covers results, interpretation and illustrations.__
+# Artificial Neural Network (ANN)
+__The task was to optimize an ANN model to fit the provided data points. The given datasets were theoretical measurements of a damped oscillation affected by noise. The main goal was to predict certain datapoints that were missing within the initial datasets (interpolation) and to predict the further course of the damped oscillation function (extrapolation).__
 
 ### Check out
 * [Report](report_sheet3_ML_WAGER.pdf) for more information on the computer experiment
