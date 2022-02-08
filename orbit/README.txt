@@ -1,3 +1,7 @@
+### Satellite orbit 
+In this project I simulate the trajectory of a satellite that orbits the sun. 
+The written report covers results, interpretation and illustrations. 
+
 # Program
 orbit.py
 
