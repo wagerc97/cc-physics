@@ -1,5 +1,5 @@
 # Pendulum 
-__In this computer experiment this point is a harmonically driven pivot. 
+__In this computer experiment a harmonically driven pendulum was simulated. 
 Thus, both the bob and the pivot exhibit oscillatory motion. 
 A simulation of their behavior was studied and visualized in a Python implementation.
 The written report covers results, interpretation and illustrations.__
