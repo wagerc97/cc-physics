@@ -1,4 +1,4 @@
-# ComputationalConceptsOfPhysics
+# Computational Concepts of Physics
 #### Simulations of physical objects and Machine Learning
 The lecture covered basics methods and algorithms of computational physics from a multidisciplinary perspective, merging together fundamental physics, mathematics and computer sciences concepts (including machine learning) conveyed in the language of a natural scientist.<br>
 
